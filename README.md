@@ -14,7 +14,7 @@ web servers ---> html technologies for decorations like (HTML, CSS, JAVASCRIPT)
 
 yet to learn 
 * detail understanding of jenkins script
-* 
+* jenkins plugins
 
 ======================================================================================================================================
 
